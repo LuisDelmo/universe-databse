@@ -59,4 +59,4 @@ WHERE p.name = 'Mars';
 
 ## 👨‍💻 Author
 
-Luis Fernando Delmondes
+Luis Fernando Faria Delmondes
