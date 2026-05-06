@@ -33,7 +33,7 @@ It represents a hierarchical structure of the universe:
 
 ## 📊 Entity Relationship Diagram
 
-![ERD](diagrams/erd.png)
+![ERD](erd.png)
 
 ## 🚀 How to Run
 
